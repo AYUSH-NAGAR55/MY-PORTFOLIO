@@ -136,4 +136,44 @@ footer {
 
 .download-btn:hover {
   background-color: #005fa3;
+
+}
+.marksheet-links {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+.marksheet-links li {
+  margin-bottom: 5px;
+}
+
+.marksheet-links a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.marksheet-links a:hover {
+  text-decoration: underline;
+}
+
+.marksheet-links {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+.marksheet-links li {
+  margin-bottom: 5px;
+}
+
+.marksheet-links a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.marksheet-links a:hover {
+  text-decoration: underline;
 }
